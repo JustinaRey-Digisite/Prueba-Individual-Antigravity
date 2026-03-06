@@ -1,23 +1,22 @@
 ---
-name: chatgpt-api
+name: openai-api
 description: >
-  Provee instrucciones para llamar a la API de OpenAI (ChatGPT) y generar
-  texto en lenguaje natural. Usar cuando se necesite integrar generación de
-  texto, resumir contenido, clasificar entradas, o cualquier tarea que
+  Provee instrucciones para llamar a la API de OpenAI y generar
+  código o texto en lenguaje natural. Usar cuando se necesite integrar generación de
+  código, resumir contenido o cualquier tarea que
   requiera un modelo de lenguaje como proveedor externo.
 ---
 
-# ChatGPT API Skill
+# OpenAI API Skill
 
 Esta skill guía al agente para integrar y utilizar la API de OpenAI
 dentro del proyecto, siguiendo las convenciones de Antigravity.
 
 ## Cuándo usar esta skill
 
-- La tarea requiere generar, resumir o transformar texto con un LLM
+- La tarea requiere generar, resumir o transformar código o texto con un LLM
 - Se está implementando o modificando código que llama a la API de OpenAI
 - Se necesita configurar parámetros del modelo (temperature, tokens, etc.)
-- Se está depurando una integración con la API de OpenAI
 
 ## Configuración requerida
 

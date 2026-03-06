@@ -1,5 +1,5 @@
 ---
-name: test
+name: test-skill
 description: >
   Genera casos de prueba unitarios y de integración para asegurar que el código 
   cumple con los criterios de aceptación de la spec.
