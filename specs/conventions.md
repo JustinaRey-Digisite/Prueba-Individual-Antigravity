@@ -81,7 +81,7 @@ Para mantener una separación clara entre backend y frontend, el proyecto sigue 
 ├── specs/                  # Fuente de verdad (SDD)
 │   ├── tasks/              # Specs funcionales
 │   └── branding/           # Guías de marca
-├── .agent/
+├── .agents/
 │   ├── skills/             # Capacidades de Antigravity
 │   └── rules/              # Reglas del workspace
 └── libs/                   # Código compartido (Types, Utils)

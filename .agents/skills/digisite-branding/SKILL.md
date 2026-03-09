@@ -1,9 +1,7 @@
 ---
 name: digisite-branding
 description: >
-  Aplica la identidad visual oficial de DigiSite ES (Executive Strategy) a cualquier 
-  artefacto, código o diseño. Úsala para asegurar coherencia en colores, tipografía 
-  y estándares de diseño corporativo en el frontend y documentos. Se utiliza si digisite-figma-source falla en obtener el diseño de Figma y se necesita un diseño base.
+  Aplica la identidad visual oficial de DigiSite ES (Executive Strategy) a cualquier artefacto, código o diseño. Úsala para asegurar coherencia en colores, tipografía y estándares de diseño corporativo en el frontend y documentos. Se utiliza si digisite-figma-source falla en obtener el diseño de Figma y se necesita un diseño base.
 ---
 
 # DigiSite ES Brand Styling

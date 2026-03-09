@@ -1,10 +1,10 @@
 ---
-name: openai-api
+name: openai-dev
 description: >
-  Provee instrucciones para llamar a la API de OpenAI y generar
-  código o texto en lenguaje natural. Usar cuando se necesite integrar generación de
-  código, resumir contenido o cualquier tarea que
-  requiera un modelo de lenguaje como proveedor externo.
+  Permite a los agentes usar la API de OpenAI para tareas de desarrollo
+  como generación de código, escritura de specs o análisis del proyecto.
+  Esta skill es solo para uso interno del equipo y no está relacionada
+  con la arquitectura de IA del producto.
 ---
 
 # OpenAI API Skill
